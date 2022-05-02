@@ -1,2 +1,2 @@
 # odin-exercise
-All ODIN Exercises
+This folder has all the Foundation Exercises 
