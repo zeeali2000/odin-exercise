@@ -1,0 +1,14 @@
+.First {
+background-color: black;
+color: #ffffff;
+}
+
+.Second {
+    background-color: hsl(60, 100%, 50%);
+    color: rgb(0, 0, 0);
+}
+
+.Button, Click {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
