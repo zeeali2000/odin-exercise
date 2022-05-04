@@ -1,0 +1,31 @@
+.para{
+  color: hsl(0, 100%, 50%);
+  font-size: 22px;
+}
+
+.small-para {
+  font-size: 14px;
+}
+
+#confirm-button {
+  background: green;
+  color: white;
+  font-weight: bold;
+} 
+
+.button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+.text {
+    color: green;
+    font-size: 22px;
+  }
+
+.child {
+  color: red !important;
+  font-size: 14px;
+}
+
